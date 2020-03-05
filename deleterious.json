@@ -1,0 +1,15 @@
+{
+    "version": "0.1.34",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/kindlyops/deleterious/releases/download/v0.1.34/deleterious_0.1.34_windows_amd64.tar.gz",
+            "bin": [
+                "deleterious.exe"
+            ],
+            "hash": "ca1ffb818ef11939e4ec1fc43ad6e548e53a70cb67532cb44d07f91b144a6d3e"
+        }
+    },
+    "homepage": "https://github.com/kindlyops/deleterious",
+    "license": "Apache2",
+    "description": "Deleterious helps find orphaned resources from AWS CloudFormation DeletionPolicy: Retain"
+}
