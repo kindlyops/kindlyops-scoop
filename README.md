@@ -6,7 +6,7 @@ on Windows.
 
 To enable the bucket for your scoop installation
 
-    scoop bucket add kindlyops-scoop https://github.com/kindlyops/kindlyops-scoop
+    scoop bucket add kindlyops https://github.com/kindlyops/kindlyops-scoop
     
 To install deleterious
 
