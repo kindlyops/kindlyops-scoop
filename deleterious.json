@@ -1,12 +1,12 @@
 {
-    "version": "0.1.34",
+    "version": "0.1.35",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/kindlyops/deleterious/releases/download/v0.1.34/deleterious_0.1.34_windows_amd64.tar.gz",
+            "url": "http://github.com/kindlyops/deleterious/releases/download/v0.1.35/deleterious_0.1.35_windows_amd64.tar.gz",
             "bin": [
                 "deleterious.exe"
             ],
-            "hash": "ca1ffb818ef11939e4ec1fc43ad6e548e53a70cb67532cb44d07f91b144a6d3e"
+            "hash": "b2e1738cb587e33c753743b1dc2b2ddc5cc0bba2403899c96f1bc96cdaa84b0e"
         }
     },
     "homepage": "https://github.com/kindlyops/deleterious",
