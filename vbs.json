@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/kindlyops/vbs/releases/download/v0.1.1/vbs_0.1.1_windows_amd64.tar.gz",
+            "bin": [
+                "vbs.exe"
+            ],
+            "hash": "a60abdb190cbff66a450aec8bfc64b5c7ea4a84400eea3a793c4532efd9c0fe2"
+        }
+    },
+    "homepage": "https://github.com/kindlyops/vbs",
+    "license": "Apache2",
+    "description": "vbs helps work with video broadcast files and streams"
+}
