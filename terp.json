@@ -1,0 +1,15 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/kindlyops/vbs/releases/download/v0.0.2/terp_0.0.2_windows_amd64.tar.gz",
+            "bin": [
+                "terp.exe"
+            ],
+            "hash": "cad31994910b2d2e04958c13ef3d1b2b2b70db386f98c92b0968efc8722b82aa"
+        }
+    },
+    "homepage": "https://github.com/kindlyops/terp",
+    "license": "Apache2",
+    "description": "🙈 terp is an experimental eBPF diagnostic interpreter"
+}
