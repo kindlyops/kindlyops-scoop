@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/kindlyops/vbs/releases/download/v0.1.0/streamer_0.1.0_windows_amd64.tar.gz",
+            "bin": [
+                "streamer.exe"
+            ],
+            "hash": "57d4faff9acaf04d8e419477298bf432cb16517c7faf8e4d52de7f08df982da8"
+        }
+    },
+    "homepage": "https://github.com/kindlyops/streamer",
+    "license": "Apache2",
+    "description": "🚣 streamer is utilities for working with kinesis"
+}
