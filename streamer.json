@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/kindlyops/vbs/releases/download/v0.1.0/streamer_0.1.0_windows_amd64.tar.gz",
+            "url": "http://github.com/kindlyops/vbs/releases/download/v0.1.1/streamer_0.1.1_windows_amd64.tar.gz",
             "bin": [
                 "streamer.exe"
             ],
-            "hash": "57d4faff9acaf04d8e419477298bf432cb16517c7faf8e4d52de7f08df982da8"
+            "hash": "0ae7c7cda524ee0290b3b38eca0343a4c47f0c4471a12205bc8906e485f82c93"
         }
     },
     "homepage": "https://github.com/kindlyops/streamer",
