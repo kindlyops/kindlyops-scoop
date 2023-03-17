@@ -1,0 +1,14 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "http://github.com/kindlyops/supercomm/releases/download/v0.1.1/supercomm_0.1.1_windows_amd64.tar.gz",
+            "bin": [
+                "supercomm.exe"
+            ],
+            "hash": "3f933bbf6f7c86f056b44ff643ac43c4fb16dc44c6b7df1f354aa826f75b1896"
+        }
+    },
+    "homepage": "https://supercomm.rocks",
+    "description": "SuperComm makes live events less stressful."
+}
