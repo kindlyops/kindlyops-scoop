@@ -1,12 +1,12 @@
 {
-    "version": "0.1.21",
+    "version": "0.1.22",
     "architecture": {
         "64bit": {
-            "url": "http://github.com/kindlyops/supercomm/releases/download/v0.1.21/supercomm_0.1.21_windows_amd64.zip",
+            "url": "http://github.com/kindlyops/supercomm/releases/download/v0.1.22/supercomm_0.1.22_windows_amd64.zip",
             "bin": [
                 "supercomm.exe"
             ],
-            "hash": "fd4ea910aab8c148f7302f85894f0121cb5be95b2fe90985463a4750145d4bf3"
+            "hash": "d4f5d716317a99e15b182384ff4f2b5a88a809cd2ce018b5b824ab0fdaa57b69"
         }
     },
     "homepage": "https://supercomm.rocks",
