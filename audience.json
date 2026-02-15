@@ -1,0 +1,22 @@
+{
+  "version": "1.1.0",
+  "description": "PTZ camera controller with live video feed and preset management",
+  "homepage": "https://github.com/statik/audience",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/statik/audience/releases/download/v1.1.0/Audience_1.1.0_x64_en-US.msi",
+      "hash": "f88b66d9c4f0df7e5db8c16a54b4bad0a14032034876bafd37a4456d5f45470e"
+    }
+  },
+  "checkver": {
+    "github": "https://github.com/statik/audience"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/statik/audience/releases/download/v$version/Audience_$version_x64_en-US.msi"
+      }
+    }
+  }
+}
