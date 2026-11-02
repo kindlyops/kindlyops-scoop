@@ -1,12 +1,12 @@
 {
-    "version": "0.2.15",
+    "version": "0.2.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kindlyops/vbs/releases/download/v0.2.15/vbs_0.2.15_windows_amd64.tar.gz",
+            "url": "https://github.com/kindlyops/vbs/releases/download/v0.2.16/vbs_0.2.16_windows_amd64.tar.gz",
             "bin": [
                 "vbs.exe"
             ],
-            "hash": "59f11fa28859369c0e530127cf164a2b8d54ffcdc8e8180510d6c95defcc48ad"
+            "hash": "2c83a8876b8229313eb5a9f997f7ed66115c932196f6daef8601e99e1c228225"
         }
     },
     "homepage": "https://github.com/kindlyops/vbs",
